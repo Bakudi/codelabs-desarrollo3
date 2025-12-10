@@ -1,0 +1,5 @@
+com\example\productoserviceasync\ProductorService.class
+com\example\productoserviceasync\ProductoDTO.class
+com\example\productoserviceasync\RabbitMQConfig.class
+main\java\com\example\productoserviceasync\ProductoServiceApplication.class
+com\example\productoserviceasync\ProductoController.class
